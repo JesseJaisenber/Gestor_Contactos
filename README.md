@@ -7,17 +7,6 @@ Agregar contactos (nombre, email, teléfono).
 Eliminar contactos por ID.
 Manejar eliminación de IDs inexistentes.
 
-Estructura
-src/
-├── models/
-│   ├── Contact.ts
-│   └── ContactList.ts
-├── views/
-│   └── ContactView.ts
-├── controllers/
-│   └── ContactController.ts
-└── index.ts
-
 Instalación
 
 Clona el repo:git clone https://github.com/JesseJaisenber/Gestor_Contactos
