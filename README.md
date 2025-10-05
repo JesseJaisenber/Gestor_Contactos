@@ -1,4 +1,4 @@
-Tarea TS 1.2
+Tarea TS 1.2 - Lisandro Adolfo Cantarero Giron 20201001693
 Gestor de Contactos
 Aplicación simple en TypeScript para gestionar contactos usando el patrón MVC.
 Funcionalidades
