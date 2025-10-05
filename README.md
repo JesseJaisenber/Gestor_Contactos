@@ -1,3 +1,4 @@
+Tarea TS 1.2
 Gestor de Contactos
 Aplicación simple en TypeScript para gestionar contactos usando el patrón MVC.
 Funcionalidades
